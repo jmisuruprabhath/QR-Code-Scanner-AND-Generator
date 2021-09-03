@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QRGenerator</string>
+    <string name="qr_code_generator">QR Code Generator</string>
+    <string name="text_below_qr">Grant camera permissions and go to QR Code scanner and Generation page</string>
+    <string name="camera_permission">Camera Permission</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="qr_code_generater">QR Code Generator</string>
+    <string name="enter_text_url">Enter Text/URL</string>
+    <string name="generate">Generate</string>
+    <string name="download">Download</string>
+    <string name="todo">TODO</string>
+    <string name="text_url">Text / URL</string>
+    <string name="copy">COPY</string>
+    <string name="qr_code_scanner">QR Code Scanner</string>
+</resources>
